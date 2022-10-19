@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">680419329001-5thsevhissphrf2ap40j3c74o63o2236.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">680419329001</string>
+    <string name="google_api_key" translatable="false">AIzaSyDGXnT7dTVTBFd6rMXGqHU_TGmEpVGm928</string>
+    <string name="google_app_id" translatable="false">1:680419329001:android:42dd5ed0e1c46cfb09c178</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDGXnT7dTVTBFd6rMXGqHU_TGmEpVGm928</string>
+    <string name="google_storage_bucket" translatable="false">plantsecommerceapplication.appspot.com</string>
+    <string name="project_id" translatable="false">plantsecommerceapplication</string>
+</resources>
